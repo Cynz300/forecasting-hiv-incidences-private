@@ -29,18 +29,22 @@ ___
 
 ## The Data
 
+[Desc of data set here]
+
 ### Forecasting HIV Incidences
 
 ## Project Goals
-Forecast the number of HIV Incidences by county 
 
-1. ***Forecasting HIV incidence*** in US counties using regression.
-2. 
+
+1. ***Forecasting HIV incidence*** in US using Linear regression.
+2. Forecast the number of HIV Incidences ***by county ***
 
 # Data Wrangling
 
 1. Initially exploring a pandas scatter matrix of all the columns, assessing for any visible linear relationsip
 2. Dropping columns of irrelevance or presenting multicollinearity (i.e. MSM5yrs and MSM12months - the same info for MSM12months is captured in MSM5yrs)
+
+[Insert scatter matrix plot here]
 
 # EDA
 
