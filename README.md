@@ -1,18 +1,15 @@
-
-Aqeel
-Ilya
-Robin
-Trevor
-Jamal
-
-Team TRIAJ
+# Team TRIAJ
 
 Trevor Caldwell
-Robin Stewart
-Ilya Getsin
-Aqeel Ali
-Jamal Hamadeh
 
+Robin Stewart
+
+Ilya Getsin
+
+Aqeel Ali
+
+Jamal Hamadeh
+___
 ## Table of Contents
 
 
