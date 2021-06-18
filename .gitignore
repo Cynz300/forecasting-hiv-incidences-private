@@ -130,5 +130,3 @@ dmypy.json
 
 # Additional
 .DS_Store
-data/
-!data/.gitkeep
