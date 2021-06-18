@@ -54,6 +54,8 @@ ___
 Notable features were:
 
 
+
+
 # Model Analyses
 
 
@@ -63,3 +65,32 @@ Notable features were:
 
 
 1. [Slide Deck](https://docs.google.com/presentation/d/1iIjkURRV3yMbMUNnj3k_r3jpHNOrMHAOR2SaIU2j2O8/edit?usp=sharing)
+
+
+# Deliverables Summary
+
+
+### What you planned to accomplish?
+
+Building a model for predicting HIV Incidences, optimizing that model, and then repeat the process for predicting vulnerability (Likelihood estimate) of HIV Incidences *by county*. 
+
+### How you organized yourselves as a team (including your git workflow)
+
+### Description of the problem and the data
+
+### What you planned to accomplish?
+
+### Performance on unseen data
+
+
+### What you accomplished (how you chose model, performance metric, validation)
+
+- First round of model optimization
+- Hyperparameter testing (# folds)
+- 
+
+
+
+Anything new you learned along the way
+
+`DataFrame.corr()['target_col_name']` is ***VERY*** useful
